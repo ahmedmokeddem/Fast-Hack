@@ -1,22 +1,19 @@
 TECHNICAL DOCUMENT OF SUBMISSION
-This document describes your solution as part of the second submission, please fill it thoroughly since it will be used to judge your solution and hopefully grant you a ticket to the final round, make sure to read the judging criteria at the end of the document as your solution will be judged solely on these aspects.
+This document describes our solution as part of the second submission of fast & hack 2nd edition by GDG Algiers
 ------------------------------------------
-Team Name : 
+Team Name : Soldiers
 ------------------------------------------
-Soldiers
 Team Members:
-------------------------------------------
 Mokeddem Ahmed Abdelaziz
 Laouari Soheib
 Brahimi Zakaria Abdessamed
 MEGRI Hania 
 Samah
-Chosen Track(s) :
 ------------------------------------------
-Mental fitness
-Solution name :
+Chosen Track(s) :Mental fitness
 ------------------------------------------
-Mindset
+Solution name :Mindset
+------------------------------------------
 Description of the solution :
 ------------------------------------------
 Notre approche consiste à différencier nos deux catégories d’utilisateurs :
